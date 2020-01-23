@@ -70,9 +70,9 @@ public class fb {
 	WebElement sign = fb.findElement(By.id("u_0_13"));
 	
 	sign.click();
+   
+	System.out.println("");
 	
-	
-	
-	
+	System.out.println("  ");
 	}
 }
